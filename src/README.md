@@ -1,4 +1,4 @@
-# iPhone Manager
+# iPhone Manager Web
 
 Sistema de gestión de inventario de iPhones con múltiples proveedores.
 
